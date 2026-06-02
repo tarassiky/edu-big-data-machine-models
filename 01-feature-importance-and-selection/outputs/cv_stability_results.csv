@@ -1,0 +1,11 @@
+dataset,model,feature_set,fold,accuracy,f1,roc_auc
+medical,LogisticRegression,full,0,1.0,1.0,1.0
+medical,LogisticRegression,full,1,1.0,1.0,1.0
+medical,LogisticRegression,full,2,1.0,1.0,1.0
+medical,LogisticRegression,full,3,1.0,1.0,1.0
+medical,LogisticRegression,full,4,1.0,1.0,1.0
+finance,LogisticRegression,full,0,1.0,1.0,1.0
+finance,LogisticRegression,full,1,0.6666666666666666,0.0,0.5
+finance,LogisticRegression,full,2,1.0,1.0,1.0
+finance,LogisticRegression,full,3,1.0,1.0,1.0
+finance,LogisticRegression,full,4,1.0,1.0,1.0

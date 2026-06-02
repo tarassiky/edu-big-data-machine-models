@@ -1,0 +1,4 @@
+dataset,segment_feature,segment,n,error_rate,false_positive_rate,false_negative_rate
+medical,age,"(36.999, 44.333]",1,0.0,0.0,0.0
+medical,age,"(44.333, 51.667]",1,0.0,0.0,0.0
+medical,age,"(51.667, 59.0]",1,0.0,0.0,0.0

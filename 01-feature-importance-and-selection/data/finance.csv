@@ -1,0 +1,16 @@
+age,income,credit_score,debt_ratio,employment_years,loan_amount,interest_rate,previous_default,home_ownership,marital_status,dependents,target
+25,35000,680,0.35,2,15000,12.5,0,rent,single,0,0
+42,85000,720,0.20,10,50000,8.5,0,mortgage,married,2,0
+35,45000,590,0.55,1,20000,18.0,1,rent,divorced,1,1
+50,120000,780,0.15,25,100000,5.0,0,own,married,3,0
+28,28000,540,0.70,0.5,8000,22.0,1,rent,single,0,1
+39,72000,710,0.25,8,35000,9.0,0,mortgage,married,2,0
+45,55000,640,0.45,5,25000,14.0,0,mortgage,divorced,1,1
+33,48000,670,0.30,3,18000,11.0,0,rent,married,0,0
+52,95000,750,0.18,18,60000,6.5,0,own,married,2,0
+30,32000,560,0.60,1,12000,19.0,1,rent,single,0,1
+47,78000,690,0.28,12,40000,10.0,0,mortgage,married,1,1
+41,63000,650,0.40,7,22000,13.0,1,rent,divorced,2,0
+55,110000,800,0.12,22,70000,4.5,0,own,married,3,0
+29,27000,520,0.75,0.8,9000,21.0,1,rent,single,0,1
+36,58000,700,0.22,4,28000,9.5,0,mortgage,married,1,0
