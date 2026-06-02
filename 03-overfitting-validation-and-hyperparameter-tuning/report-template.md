@@ -1,10 +1,10 @@
 # Отчёт по ЛР 03: Overfitting, Validation and Honest Hyperparameter Tuning
 
 ## 1. Контекст
-- ФИО: [Ваше имя]
-- Группа: [Ваша группа]
+- Выполнила: Тарасова Даша
+- Группа: ИВТ 1.2
 - Дата: 2026-06-02
-- Среда: Windows 11, Python 3.10
+
 
 ## 2. Candidate feature set из ЛР 01
 - **medical**: full, shortlist, robust_D
