@@ -1,0 +1,10 @@
+﻿{
+  "medical": {
+    "shortlist": ["num__age", "num__bmi", "num__cholesterol", "num__smoking", "num__exercise", "cat__family_history", "num__systolic_bp", "num__diastolic_bp", "num__glucose", "num__weight"],
+    "robust_D": ["num__age", "num__bmi", "num__smoking", "num__cholesterol", "num__exercise"]
+  },
+  "finance": {
+    "shortlist": ["num__credit_score", "num__income", "num__debt_ratio", "num__loan_amount", "num__employment_years", "num__interest_rate", "num__previous_default", "num__age", "num__dependents", "cat__home_ownership", "cat__marital_status"],
+    "robust_D": ["num__credit_score", "num__income", "num__debt_ratio", "num__previous_default", "num__employment_years"]
+  }
+}
