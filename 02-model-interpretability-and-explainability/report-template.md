@@ -1,10 +1,9 @@
 # Отчёт по ЛР 02: Model Interpretability and Explainability
 
 ## 1. Контекст
-- ФИО: [Ваше имя]
-- Группа: [Ваша группа]
+- Выполнила: Тарасова Даша
+- Группа: ИВТ 1.2
 - Дата: 2026-06-02
-- Среда: Windows 11, Python 3.10
 
 ## 2. Входные данные и предпосылки
 - Feature set для `medical`: **robust_D** (выбран на основе ЛР01, включает `num__cholesterol`, `num__glucose`, `num__systolic_bp`, `num__diastolic_bp`, `num__weight`, ...)
