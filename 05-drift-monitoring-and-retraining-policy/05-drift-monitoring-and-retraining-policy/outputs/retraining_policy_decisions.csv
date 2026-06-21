@@ -1,0 +1,9 @@
+dataset,window_id,scenario,drift_feature_share,delta_f1_vs_reference,delta_cost_vs_reference,policy_action,trigger_reason
+finance,1,stable,0.0,-0.0071519389701207,0.0772727272727271,observe,no_trigger
+finance,2,covariate,0.21428571428571427,-0.1469654199011997,0.2954545454545454,retrain,f1_drop;cost_increase
+finance,3,prior,0.07142857142857142,0.0688811188811188,1.2000000000000002,retrain,cost_increase
+finance,4,combined,0.2857142857142857,-0.0192307692307692,1.4727272727272729,retrain,cost_increase
+medical,1,stable,0.0,-0.0789473684210526,0.1358585858585859,retrain,f1_drop
+medical,2,covariate,0.23076923076923078,-0.0434782608695652,0.0267676767676768,observe,no_trigger
+medical,3,prior,0.23076923076923078,0.0162162162162162,2.317676767676768,retrain,cost_increase
+medical,4,combined,0.38461538461538464,-0.0054054054054054,2.3722222222222222,retrain,drift_share;cost_increase
